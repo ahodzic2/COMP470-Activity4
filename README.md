@@ -9,3 +9,4 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/ahodzic2/COMP470-Activity4)
 ![GitHub](https://img.shields.io/github/license/ahodzic2/COMP470-Activity4)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ahodzic2/COMP470-Activity4)
+![GitHub language count](https://img.shields.io/github/languages/count/ahodzic2/COMP470-Activity4)
