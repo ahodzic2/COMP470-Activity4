@@ -25,5 +25,6 @@ jobs:
     - name: Build with Maven
       run: mvn -B package --file pom.xml
     - name: Upload Code Coverage
-      run: curl -Os https://uploader.codecov.io/latest/linux/codecov chmod +x codecov ./codecov
+      uses: codecov/codecov-action@v3.0.0
+        
       
