@@ -10,3 +10,6 @@
 ![GitHub](https://img.shields.io/github/license/ahodzic2/COMP470-Activity4)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ahodzic2/COMP470-Activity4)
 ![GitHub language count](https://img.shields.io/github/languages/count/ahodzic2/COMP470-Activity4)
+
+## Basic Info
+Java program that takes a string input, and returns the inverse of the string. Built using Maven with JUnit tests. Leverages GitHub Actions and a YAML workflow file to setup JDK 18 in an Ubunutu environment, test/build using Maven, and then upload code coverage report to CodeCov.
